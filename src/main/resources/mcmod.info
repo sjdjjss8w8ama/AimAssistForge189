@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "aimassist",
+    "name": "Aim Assist",
+    "description": "Single-player target assistance and configuration GUI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["AimAssist"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": ""
+  }
+]
